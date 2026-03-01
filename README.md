@@ -6,6 +6,8 @@
   A visualization tool for robot models
 </h3>
 
+[robot-see-demo.webm](https://github.com/user-attachments/assets/18fb12b7-5c99-460d-8660-9090263749c3)
+
 ## Installation
 
 To install globally as a [uv tool](https://docs.astral.sh/uv/guides/tools/),
