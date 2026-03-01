@@ -1,0 +1,14 @@
+# Python cache
+__pycache__
+*.py[cod]
+*.egg-info/
+
+# Env
+.venv/
+uv.lock
+
+# Linting/Formatting
+.ruff_cache/
+
+# MacOS
+.DS_Store
